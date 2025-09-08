@@ -105,12 +105,16 @@
     * [6.3.1. Diseño de entrevistas de validación](docs/chapter-06-product-implementation/6.3-validation-interviews/6.3.1-interview-design.md)
     * [6.3.2. Registro de entrevistas de validación](docs/chapter-06-product-implementation/6.3-validation-interviews/6.3.2-interview-record.md)
     * [6.3.3. Evaluación según heurísticas](docs/chapter-06-product-implementation/6.3-validation-interviews/6.3.3-heuristic-based-evaluations.md)
-  * [6.4. Video-About-The-Product](docs/chapter-06-product-implementation/6.4-video-about-the-product/6.4-video-about-the-product.md)
 
 * [Conclusiones](docs/chapter-07-conclusions)
   * [Conclusiones](docs/chapter-07-conclusions/7.1-conclusions.md)
   * [Recomendaciones](docs/chapter-07-conclusions/7.2-recomendations.md)
+  * [Video-App-Validation](docs/chapter-07-conclusions/7.3-video-app-validation.md)
+  * [Video-About-The-Product](docs/chapter-07-conclusions/7.4-video-about-the-product.md)
+  * [Video-About-The-Team](docs/chapter-07-conclusions/7.5-video-about-the-team.md)
 
-* [Bibliografía](docs/chapter-08-bibliography/8.1-bibliography.md)
+* [Glosarío](docs/chapter-08-glossary/8.1-glossary.md)
 
-* [Anexos](docs/chapter-09-annexes/9.1-annexes.md)
+* [Bibliografía](docs/chapter-09-bibliography/8.1-bibliography.md)
+
+* [Anexos](docs/chapter-010-annexes/9.1-annexes.md)
